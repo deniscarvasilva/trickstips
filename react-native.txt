@@ -1,2 +1,5 @@
 #Rodar app
 react-native run-android
+
+#listar devices
+abd devices
