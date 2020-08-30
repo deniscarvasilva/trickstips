@@ -1,0 +1,2 @@
+#Rodar app
+react-native run-android
