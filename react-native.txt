@@ -3,3 +3,9 @@ react-native run-android
 
 #listar devices
 abd devices
+
+#trocar portas do device android
+adb reverse tcp:3333 tcp:3333
+
+#ou ip do emulador do Android Studio
+10.0.2.2
